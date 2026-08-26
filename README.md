@@ -1,6 +1,6 @@
 # Amar Naga
 
-Founder & builder. I ship AI-powered products across proptech, healthcare, and enterprise operations.
+Founder & builder. I build enterprise AI systems for healthcare, real estate, and operations — and the companies around them.
 
 ## Currently building
 
@@ -11,7 +11,9 @@ Founder & builder. I ship AI-powered products across proptech, healthcare, and e
 
 ## How I work
 
-Product strategy, applied-AI architecture, and go-to-market in one loop. I design AI-native agent systems and decision-intelligence platforms for regulated, high-stakes industries — healthcare, real estate, enterprise operations — and take them from PoC to production. TypeScript and Python underneath.
+Enterprise AI doesn't fail on models — it fails on everything around them: workflow fit, governance, UX that operators actually adopt, technology bets that age badly. That's the layer I own. Business case to architecture to rollout: the AI agents, the UX, the technology choices, the data governance.
+
+The AI landscape reinvents itself every quarter. Enterprises can't. So I anchor systems to what doesn't churn — the business process, the data, the controls — and keep the model layer swappable. AI-native, and still standing when the stack shifts. TypeScript and Python underneath.
 
 Most of my work lives in private repos across [@Nexa-Revive](https://github.com/Nexa-Revive), [@LumiCorp](https://github.com/LumiCorp), and [@checkdoors](https://github.com/checkdoors) — public demos below are the tip of the iceberg.
 
