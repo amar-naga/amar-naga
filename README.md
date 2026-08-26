@@ -11,7 +11,7 @@ Founder & builder. I ship AI-powered products across proptech, healthcare, and e
 
 ## How I work
 
-Product strategy, applied-AI architecture, and go-to-market in one loop. I design Claude-native agent systems and decision-intelligence platforms for regulated, high-stakes industries — healthcare, real estate, enterprise operations — and take them from PoC to production. TypeScript and Python underneath.
+Product strategy, applied-AI architecture, and go-to-market in one loop. I design AI-native agent systems and decision-intelligence platforms for regulated, high-stakes industries — healthcare, real estate, enterprise operations — and take them from PoC to production. TypeScript and Python underneath.
 
 Most of my work lives in private repos across [@Nexa-Revive](https://github.com/Nexa-Revive), [@LumiCorp](https://github.com/LumiCorp), and [@checkdoors](https://github.com/checkdoors) — public demos below are the tip of the iceberg.
 
