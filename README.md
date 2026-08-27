@@ -24,4 +24,4 @@ The AI landscape reinvents itself every quarter. Enterprises can't. So I anchor 
 
 My work ships from private repos across [@Nexa-Revive](https://github.com/Nexa-Revive), [@LumiCorp](https://github.com/LumiCorp), and [@checkdoors](https://github.com/checkdoors) — the activity graph is the tip of the iceberg; ask me about the rest.
 
-Off hours I build under the **Foggy** name — music on YouTube, [Foggy Drops](https://foggydrops.com) (a consumer drinks platform with a Claude-powered AI assistant for bars & restaurants), and a live options-flow trading dashboard I made for myself.
+Off hours I build under the **Foggy** name — music on YouTube, [Foggy Drops](https://foggydrops.com) (a consumer drinks platform with an AI assistant for bars & restaurants), and a live options-flow trading dashboard I made for myself.
