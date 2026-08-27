@@ -22,6 +22,6 @@ Enterprise AI doesn't fail on models — it fails on everything around them: wor
 
 The AI landscape reinvents itself every quarter. Enterprises can't. So I anchor systems to what doesn't churn — the business process, the data, the controls — and keep the model layer swappable. AI-native, and still standing when the stack shifts. TypeScript and Python underneath.
 
-My work ships from private repos across [@Nexa-Revive](https://github.com/Nexa-Revive), [@LumiCorp](https://github.com/LumiCorp), and [@checkdoors](https://github.com/checkdoors) — the activity graph is the tip of the iceberg; ask me about the rest.
+Most of my work ships from private repos across [@Nexa-Revive](https://github.com/Nexa-Revive), [@LumiCorp](https://github.com/LumiCorp), and [@checkdoors](https://github.com/checkdoors).
 
 Off hours I build under the **Foggy** name — music on YouTube, [Foggy Drops](https://foggydrops.com) (a consumer AI platform for restaurants, built to maximize guest experience and growth), and a live options-flow trading dashboard I made for myself.
