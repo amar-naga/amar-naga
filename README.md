@@ -9,6 +9,13 @@ Founder & builder. I build enterprise AI systems for healthcare, real estate, an
 - **[Lumi](https://lumicorp.ai)** — enterprise AI agent development & consulting
 - **[Kestrel](https://lumicorp.ai/kestrel)** — AI agent operations platform: approved system access, human review, and a clear record of every run
 
+## Open source
+
+At [LumiCorp](https://github.com/LumiCorp) we open-sourced the operations layer we believe enterprise agents need — open, auditable, reliable:
+
+- **[Kestrel](https://github.com/LumiCorp/kestrel)** — open runtime platform: Kestrel Local Core, CLI/TUI, Desktop, Kestrel One, SDKs, and declarative evaluations
+- **[ruhroh](https://github.com/LumiCorp/ruhroh)** — Real-User Harness for Repair-Oriented Harbor
+
 ## How I work
 
 Enterprise AI doesn't fail on models — it fails on everything around them: workflow fit, governance, UX that operators actually adopt, technology bets that age badly. That's the layer I own. Business case to architecture to rollout: the AI agents, the UX, the technology choices, the data governance.
